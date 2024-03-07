@@ -1,0 +1,7 @@
+
+The frontend of the app presents an intuitive and interactive user interface,
+designed to facilitate seamless communication. It features an authentication page for user login, 
+transitioning to a chat interface upon successful login. This chat interface leverages the 
+react-chat-engine-pretty for visually appealing chat windows, allowing users to engage in conversations in real time. 
+Emphasizing user experience, the design is clean and responsive, ensuring accessibility across various devices. 
+With a focus on simplicity and efficiency, the app aims to provide a user-friendly platform for effortless communication
